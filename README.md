@@ -3,7 +3,7 @@
 Welcome to the official support page for the Focobo iOS app.
 
 ## 👋 About Focobo
-FocusMate is your personal procrastination therapist and productivity coach. It helps users stay focused, manage daily tasks, and build long-term productive habits through a calming, gamified experience.
+Focobo is your personal procrastination therapist and productivity coach. It helps users stay focused, manage daily tasks, and build long-term productive habits through a calming, gamified experience.
 
 ## 🛠 Support Contact
 If you're experiencing issues or have questions, please contact:
