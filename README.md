@@ -1,8 +1,8 @@
-# FocusMate Support
+# Focobo Support
 
-Welcome to the official support page for the FocusMate iOS app.
+Welcome to the official support page for the Focobo iOS app.
 
-## 👋 About FocusMate
+## 👋 About Focobo
 FocusMate is your personal procrastination therapist and productivity coach. It helps users stay focused, manage daily tasks, and build long-term productive habits through a calming, gamified experience.
 
 ## 🛠 Support Contact
@@ -25,4 +25,4 @@ Yes! This version is part of an academic research project, and we will release i
 
 ---
 
-Thank you for testing FocusMate and helping improve the app!
+Thank you for testing Focobo and helping improve the app!
